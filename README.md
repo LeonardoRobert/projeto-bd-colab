@@ -7,7 +7,7 @@ Este projeto consiste em uma simulação de um pequeno banco de dados usando SQL
 🔧 Estrutura do Banco de Dados
 O banco é composto por três tabelas principais:
 
-🔗 [Clique aqui para abrir o diagrama]https://github.com/LeonardoRobert/projeto-bd-colab/blob/main/docs/diagrama.png
+🔗 [Clique aqui para abrir o diagrama](https://github.com/LeonardoRobert/projeto-bd-colab/blob/main/docs/diagrama.png)
 
 🔍 Consultas Realizadas
 O notebook executa um JOIN entre as tabelas para listar as vendas realizadas com nome da pessoa, produto e quantidade. Exemplo de resultado:
