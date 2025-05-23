@@ -2,7 +2,7 @@
 🗃️ Projeto Banco de Dados com SQLite + Google Colab
 Este projeto consiste em uma simulação de um pequeno banco de dados usando SQLite dentro do ambiente Google Colab. Ele envolve a criação de tabelas, inserção de dados e realização de consultas com JOIN, usando Python.
 
-🔗 Clique aqui para abrir o notebook no Google Colab
+🔗 [Clique aqui para abrir o notebook no Google Colab](https://colab.research.google.com/github/LeonardoRobert/projeto-bd-colab/blob/main/Projeto_BD_SQLite.ipynb)
 
 🔧 Estrutura do Banco de Dados
 O banco é composto por três tabelas principais:
