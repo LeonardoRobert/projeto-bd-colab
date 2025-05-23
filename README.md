@@ -9,9 +9,9 @@ O banco é composto por três tabelas principais:
 
 🔗 [Clique aqui para abrir o diagrama](https://github.com/LeonardoRobert/projeto-bd-colab/blob/main/docs/diagrama.png)
 
-🔍 Consultas Realizadas
-O notebook executa um JOIN entre as tabelas para listar as vendas realizadas com nome da pessoa, produto e quantidade. Exemplo de resultado:
+🔍 Consultas Realizadas␣␣
+O notebook executa um JOIN entre as tabelas para listar as vendas realizadas com nome da pessoa, produto e quantidade. 
 
-(1, 'Maria', 'Caneta', 10)
-
+Exemplo de resultado:␣␣
+(1, 'Maria', 'Caneta', 10)␣␣
 (2, 'João', 'Caderno', 2)
