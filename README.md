@@ -7,25 +7,7 @@ Este projeto consiste em uma simulação de um pequeno banco de dados usando SQL
 🔧 Estrutura do Banco de Dados
 O banco é composto por três tabelas principais:
 
-🧍 Tabela pessoas
-Coluna	Tipo	Descrição
-id	INTEGER (PK)	Identificador da pessoa
-nome	TEXT	Nome da pessoa
-idade	INTEGER	Idade da pessoa
-
-📦 Tabela produtos
-Coluna	Tipo	Descrição
-id	INTEGER (PK)	Identificador do produto
-descricao	TEXT	Nome/descritivo do produto
-estoque	INTEGER	Quantidade disponível
-preco	REAL	Preço do produto
-
-🛒 Tabela vendas
-Coluna	Tipo	Descrição
-id_venda	INTEGER (PK)	Identificador da venda
-id_pessoa	INTEGER (FK)	Referência para a tabela pessoas
-id_produto	INTEGER (FK)	Referência para a tabela produtos
-quantidade	INTEGER	Quantidade vendida
+🔗 [Clique aqui para abrir o diagrama]https://github.com/LeonardoRobert/projeto-bd-colab/blob/main/docs/diagrama.png
 
 🔍 Consultas Realizadas
 O notebook executa um JOIN entre as tabelas para listar as vendas realizadas com nome da pessoa, produto e quantidade. Exemplo de resultado:
