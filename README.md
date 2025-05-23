@@ -42,9 +42,13 @@ Não é necessário instalar nada em seu computador. Tudo funciona diretamente n
 
 ---
 
-## 💡 Exemplo de resultado de consulta
+💡 **Exemplo de resultado de consulta**
 
-```text
-ID | Cliente | Produto | Quantidade
-1  | Maria   | Caneta  | 10
-2  | João    | Caderno | 2
+| ID | Cliente  | Produto  | Quantidade |
+|----|----------|----------|------------|
+| 1  | Maria    | Caneta   | 10         |
+| 2  | João     | Caderno  | 2          |
+| 3  | Ana      | Borracha | 5          |
+| 4  | Carlos   | Lápis    | 12         |
+| 5  | Beatriz  | Caneta   | 3          |
+| 6  | Maria    | Régua    | 2          |
